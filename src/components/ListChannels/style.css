@@ -1,0 +1,5 @@
+.list-channels {
+  max-height: 40%;
+  overflow-y: auto;
+  padding-right: 5px;
+}

@@ -1,0 +1,9 @@
+export const primary = '#01ABD3';
+export const blue = '#4886EF';
+export const blueDark = '#5C80B8';
+export const white = '#F6F7FD';
+export const blueLight = '#61A2D0';
+export const green = '#25D366';
+export const purple = '#7F4DA0';
+export const blueGradient = 'linear-gradient(246.71deg, #7B0AFC 0.5%, #05B3C5 100.39%)';
+export const redGradient = 'radial-gradient(100.81% 100.81% at 29.06% 99.75%, #FFD776 0%, #F3A554 24.63%, #F15C3C 37.93%, #D94867 60.7%, #C32F87 83.46%, #7D63A7 95.77%, #5C6CB3 100%)';
